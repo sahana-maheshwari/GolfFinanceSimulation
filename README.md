@@ -19,7 +19,7 @@ Run a company in a competitive simulated market: decide which products and marke
 
 ## Deliverables
 
-- [`Team Golf presentation -3.pdf`](Team%20Golf%20presentation%20-3.pdf) — the strategy deck covering rationale, analysis, and evaluation across market, capital, production, and financing decisions.
+- [`jetpack_simulation_presentation.pdf`](jetpack_simulation_presentation.pdf) — the strategy deck covering rationale, analysis, and evaluation across market, capital, production, and financing decisions.
 
 ## Stack
 
